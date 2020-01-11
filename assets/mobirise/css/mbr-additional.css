@@ -717,6 +717,11 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-rNiKfpYojt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-ruO8xKDa7b {
   background-image: url("../../../assets/images/p1030608-2000x1500.jpg");
 }
@@ -730,4 +735,9 @@ section.lazy-placeholder:after {
   .cid-ruO8xKDa7b .media-container-column {
     padding: 1rem !important;
   }
+}
+.cid-rNiKfpYojt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
